@@ -1,2 +1,2 @@
 # plp
-Activities involving programming language paradigms.
+Atividades e conteúdos envolvendo os paradigmas de linguagem de programação.
